@@ -1,17 +1,17 @@
 ## Databases
 
 - Theory and concepts
-  - Data types k
+  - Data types: 🎓 known
   - Performance tuning
   - Migrations
   - Schema versioning
-  - Backup and recovery k
+  - Backup and recovery: 🎓 known
   - Database scalability
-  - Relational databases k
+  - Relational databases: 🎓 known
   - Key-value store
   - Tuple store
   - Graph databases
-  - Object databases k
+  - Object databases: 🎓 known
   - Column databases
   - Navigational databases
   - Hierarchical databases
@@ -20,7 +20,7 @@
   - Data control language (DCL)
   - Data definition language (DDL)
   - Data manipulation language (DML)
-  - Data query language (DQL) k
+  - Data query language (DQL): 🎓 known
 - Relational
   - Entity-Relationship Diagram: 🖐️ used
   - Normal forms

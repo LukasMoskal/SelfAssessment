@@ -16,7 +16,7 @@
   - Module: 🖐️ used
   - Library: 🖐️ used
   - Package: 🖐️ used
-  - Component
+  - Component: 👂 heard
   - Framework: 🖐️ used
   - Platform: 🖐️ used
   - Source code: 🎓 known

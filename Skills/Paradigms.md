@@ -1,50 +1,50 @@
 ## Multi-paradigm programming
 
 - Theory
-  - Procedural programming
-  - Imperative programming
+  - Procedural programming u
+  - Imperative programming u
   - Structured programming
   - Non-structured programming
-  - Functional programming
+  - Functional programming l
   - Prototype-based programming
-  - Object-oriented programming
+  - Object-oriented programming u
   - Object-based programming
-  - Generic programming
-  - Concurrent computing
-  - Asynchronous programming
-  - Parallel programming
+  - Generic programming h
+  - Concurrent computing h
+  - Asynchronous programming h
+  - Parallel programming l
   - Reactive programming
   - Functional-reactive (FRP)
   - Automata-based programming
-  - Domain-specific languages
-  - Multi-paradigm programming
+  - Domain-specific languages h
+  - Multi-paradigm programming h
   - Metaprogramming
   - Actor model
-  - Lambda calculus
-  - Black box
-  - Information hiding
+  - Lambda calculus l
+  - Black box u
+  - Information hiding l
   - Aspect-oriented programming
   - Anemic domain model
   - Class composition
 - OOP basics
-  - Constructor
-  - Operator `new`
-  - Static method
-  - Method
+  - Constructor u
+  - Operator `new` u
+  - Static method u
+  - Method u
   - Async method
-  - Getters, Setters
-  - Public fields
-  - Private fields
-  - Field declarations
-  - Inheritance
-  - Parent class
-  - Polymorphism
-  - Abstract class
-  - Interface
-  - Encapsulation
-  - Hidden class
+  - Getters, Setters u
+  - Public fields u
+  - Private fields u
+  - Field declarations u
+  - Inheritance u
+  - Parent class u
+  - Polymorphism u
+  - Abstract class l
+  - Interface u
+  - Encapsulation u
+  - Hidden class l
   - Object form
-  - Instance
+  - Instance u
   - Introspection
   - Reflection
   - The diamond problem
@@ -64,22 +64,22 @@
   - Interface segregation principle (ISP)
   - Dependency inversion principle (DIP)
 - Patterns
-  - Singleton
-  - Factory Method
+  - Singleton h
+  - Factory Method h
   - Abstract Factory
   - Adapter
-  - Observer
+  - Observer h
   - Strategy
   - Facade
   - Proxy
   - Chain of Responsibility
   - Command
-  - Iterator
+  - Iterator h
   - State
   - Bridge
   - Builder
-  - Prototype
-  - Composite
+  - Prototype h
+  - Composite h
   - Decorator
   - Flyweight
   - Mediator

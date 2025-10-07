@@ -1,79 +1,79 @@
 ## Programming fundamental concepts
 
 - Concepts
-  - Model
-  - Modeling
-  - Subject domain
-  - Algorithm
-  - Syntax
-  - Semantics
-  - Abstraction
-  - Paradigm
-  - Programm
-  - Programming paradigm
-  - Programming language
+  - Model l
+  - Modeling l
+  - Subject domain l
+  - Algorithm u
+  - Syntax u
+  - Semantics u
+  - Abstraction u
+  - Paradigm u
+  - Programm u
+  - Programming paradigm u
+  - Programming language u
   - Contract
-  - Module
-  - Library
-  - Package
+  - Module u
+  - Library u
+  - Package u
   - Component
-  - Framework
-  - Platform
-  - Source code
-  - Object code
-  - Machine code
+  - Framework u
+  - Platform u
+  - Source code l
+  - Object code l
+  - Machine code l
   - Microcode
-  - Software engineering
+  - Software engineering l
   - Decomposition
   - Control flow
   - Data flow
-  - Code reuse
+  - Code reuse h
   - Defensive programming
   - Don't repeat yourself (DRY)
   - KISS principle
 - Syntax and concepts
-  - Value
-  - Identifier
-  - Variable
-  - Constant
+  - Value u
+  - Identifier l
+  - Variable u
+  - Constant u
   - Scalar
   - Literal
   - Expression
-  - Heap
-  - Function
-  - Procedure
-  - Method
-  - Class
+  - Heap u
+  - Function u
+  - Procedure u
+  - Method u
+  - Class u
   - Prototype
-  - Event
+  - Event u
   - Type
-  - Flag
+  - Flag u
   - Lexical scope
-  - Code block
-  - Conditions
-  - Loops
+  - Code block u
+  - Conditions u
+  - Loops u
   - Assignment
-  - Regular expression
-  - Interface
-  - Namespaces
+  - Regular expression u
+  - Interface u
+  - Namespaces u
   - Call stack
-  - Naming conventions
-  - Coding conventions
-  - Camel case
-  - Snake case
-  - Kebab case
+  - Naming conventions l
+  - Coding conventions l
+  - Camel case l
+  - Snake case l
+  - Kebab case l
   - Trailing commas
   - Return early
   - Fail-fast
 - Types
-  - Primitive types
-  - Reference types
+  - Primitive types l
+  - Reference types l
   - Type systems
   - Strong typing
   - Weak typing
   - Duck typing
-  - Static typing
-  - Dynamic typing
+  - Static typing l
+  - Dynamic typing l
   - Nominal typing
   - Structural typing
   - Explicit typing
@@ -81,92 +81,92 @@
   - Covariance
   - Contravariance
 - Functions
-  - Signature
-  - Argument
-  - Parameter
+  - Signature l
+  - Argument l
+  - Parameter u
   - Pure function
-  - Lambda expression
+  - Lambda expression h
   - Side effects
   - Closure
   - Partial application
   - Currying
   - Higher order
-  - Recursion
+  - Recursion u
   - Tail call optimisation
   - Callback
-  - Listener
+  - Listener u
   - Composition
   - Pipe
-  - Memoize
-  - Wrapper
+  - Memoize h
+  - Wrapper l
   - Functor
   - Monad
   - Monoid
-  - Generator
+  - Generator h
   - Coroutine
 - Data structures
-  - Array
-  - Structure
-  - Record
-  - Enum
-  - Instance
-  - Object
-  - Collection
-  - Set
-  - Hash table
-  - Linked list
-  - Doubly list
+  - Array u
+  - Structure u
+  - Record u
+  - Enum u
+  - Instance u
+  - Object u
+  - Collection u
+  - Set u
+  - Hash table l
+  - Linked list u
+  - Doubly list u
   - Unrolled list
   - Circular list
-  - Queue
-  - Stack
+  - Queue u
+  - Stack u
   - Deque
-  - Tree
-  - Graph
-  - Iterator
+  - Tree u
+  - Graph u
+  - Iterator u
   - Mutable state
   - Immutable state
   - Serialization
-  - String parsing
+  - String parsing u
   - JSON
   - JSON5
   - YAML
 - Networking
-  - DNS
+  - DNS h
   - CDN
   - CORS
-  - IPv4
-  - IPv6
+  - IPv4 u
+  - IPv6 l
   - NAT
-  - URL
+  - URL u
   - URN
-  - URI
+  - URI h
 - Process and tools
-  - Compiler
-  - Just-in-time compilation
+  - Compiler u
+  - Just-in-time compilation l
   - Ahead-of-time compilation
   - Transpiler
   - Linter
   - Polyfill
-  - Interpreter
+  - Interpreter l
   - Linker
-  - Dynamic linking
-  - Static linking
-  - Runtime
-  - Virtual machine
+  - Dynamic linking l
+  - Static linking l
+  - Runtime l
+  - Virtual machine u
   - Register-based VM
   - Stack-based VM
   - Containerization
-  - Debugger
+  - Debugger l
   - Tracing
-  - Garbage collection
+  - Garbage collection l
   - Refactoring
-  - Code review
-  - Exception
+  - Code review l
+  - Exception u
   - Unittesting
-  - git
-  - Github
-  - Docker
+  - git h
+  - Github h
+  - Docker h
   - Kubernetes
   - GCC
   - LLVM
@@ -178,7 +178,7 @@
   - Improbability factor
   - Accidental complexity
   - Action at a distance
-  - Spaghetti
+  - Spaghetti l
   - Silver bullet
   - Not invented here
   - Dead code
@@ -186,7 +186,7 @@
   - Duplicate code
   - Premature optimization
   - Micro-optimization
-  - Nested loops
+  - Nested loops u
   - Long method/function/procedure
   - Long inheritance
   - Large class/file
@@ -208,32 +208,32 @@
   - CLR
   - Mono
 - Operating systems
-  - Interrupts
-  - Drivers
-  - Kernel
-  - Ring
-  - Virtual memory
-  - File system
-  - Linux
-  - Unix
+  - Interrupts l
+  - Drivers l
+  - Kernel l
+  - Ring l
+  - Virtual memory l
+  - File system l
+  - Linux u
+  - Unix l
   - BSD
-  - MacOS
-  - Windows
-  - Real-time OS
+  - MacOS h
+  - Windows u
+  - Real-time OS 
   - Embedded OS
 - Standards
-  - ASCII
+  - ASCII h
   - Escape sequence
-  - RFC
+  - RFC l
   - IETF
   - IANA
-  - IEEE
+  - IEEE h
   - Base64
   - ECMA
   - ICANN
-  - ISO
+  - ISO l
   - MIME
   - OWASP
-  - UTF-8
-  - W3C
+  - UTF-8 l
+  - W3C l
   - ODMG

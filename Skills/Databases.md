@@ -1,17 +1,17 @@
 ## Databases
 
 - Theory and concepts
-  - Data types
+  - Data types l
   - Performance tuning
   - Migrations
   - Schema versioning
-  - Backup and recovery
+  - Backup and recovery l
   - Database scalability
-  - Relational databases
+  - Relational databases l
   - Key-value store
   - Tuple store
   - Graph databases
-  - Object databases
+  - Object databases l
   - Column databases
   - Navigational databases
   - Hierarchical databases
@@ -20,43 +20,43 @@
   - Data control language (DCL)
   - Data definition language (DDL)
   - Data manipulation language (DML)
-  - Data query language (DQL)
+  - Data query language (DQL) l
 - Relational
-  - Entity-Relationship Diagram
+  - Entity-Relationship Diagram u
   - Normal forms
-  - Indexing
+  - Indexing u
   - Primary keys
   - Foreign keys
   - Transactions
   - Views
   - Subqueries
   - Stored procedures
-  - SQL functions
+  - SQL functions u
   - Materialized views
   - Replications
   - Virtualization
 - SQL
-  - `SELECT`
-  - `INSERT`
-  - `UPDATE`
-  - `DELETE`
+  - `SELECT` u
+  - `INSERT` h
+  - `UPDATE` h
+  - `DELETE` h
   - `LIMIT`
   - `OFFSET`
-  - `ORDER BY`
-  - `GROUP BY`
-  - `HAVING`
+  - `ORDER BY` u
+  - `GROUP BY` h
+  - `HAVING` u
   - `EXISTS`
-  - `JOIN`
-  - `INNER JOIN`
-  - `LEFT JOIN`
-  - `RIGHT JOIN`
-  - `UNION`
-  - `DISTINCT`
-  - `WHERE`
+  - `JOIN` u
+  - `INNER JOIN` u
+  - `LEFT JOIN` u
+  - `RIGHT JOIN` u
+  - `UNION` u
+  - `DISTINCT` u
+  - `WHERE` u
   - `LIKE`
-  - `IN`
+  - `IN` u
   - `BETWEEN`
-  - `CREATE TABLE`
+  - `CREATE TABLE` u
   - `ALTER TABLE`
   - `DROP TABLE`
   - `PRIMARY KEY`

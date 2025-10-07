@@ -1,17 +1,17 @@
 ## JavaScript
 
 - Language
-  - `Object`
-  - `Function`
-  - `Boolean`
-  - `Number`
-  - `BigInt`
-  - `String`
-  - `Symbol`
+  - `Object` u
+  - `Function` u
+  - `Boolean` u
+  - `Number` l
+  - `BigInt` l
+  - `String` u
+  - `Symbol` l
   - `Infinity`
-  - `NaN`
-  - `undefined`
-  - `null`
+  - `NaN` h
+  - `undefined` h
+  - `null` h
   - `this`
   - `instanceof`
   - `...spread`
@@ -19,7 +19,7 @@
   - `typeof`
   - Destructuring
   - Generators
-  - Iterators
+  - Iterators u
   - Async generator
   - Async iterator
   - Chaining
@@ -29,15 +29,15 @@
   - `global`
   - `globalThis`
   - `window`
-  - Getters and setters
+  - Getters and setters u
   - `__proto__`
   - `prototype`
-  - Equality operators
-  - Logical operators
+  - Equality operators u
+  - Logical operators u
   - Logical Assignment
-  - Bitwise operators
+  - Bitwise operators h
   - Ternary operator
-  - `void`
+  - `void` u
   - `yield`
   - `await`
   - Template literal
@@ -48,51 +48,51 @@
   - `super`
   - `eval`
   - `static`
-  - `Number.parseInt`
-  - `Number.parseFloat`
+  - `Number.parseInt` l
+  - `Number.parseFloat` l
   - Property descriptors
   - Sealing properties
   - Freezing properties
   - Computed properties
-  - Instance class fields
-  - Static class fields
-  - Private class fields
-  - Private class methods
+  - Instance class fields l
+  - Static class fields l
+  - Private class fields l
+  - Private class methods l
 - Statements
-  - `if`
-  - `while`
-  - `do..while`
-  - `for`
+  - `if` u
+  - `while` u
+  - `do..while` u
+  - `for` u
   - `for..in`
   - `for..of`
   - `for await`
-  - `throw`
-  - `break`
+  - `throw` l
+  - `break` l
   - `continue`
   - `import`
   - `export`
   - `label`
-  - `try..catch`
-  - `switch`
-  - `class`
-  - `extends`
+  - `try..catch` l
+  - `switch` l
+  - `class` u
+  - `extends` u
   - `with`
   - `new`
 - Functions
   - Arrow function
   - Async function
-  - Function declaration
-  - Function expression
-  - Default parameters
+  - Function declaration l
+  - Function expression l
+  - Default parameters l
   - Functional object
   - `Function.prototype.call`
   - `Function.prototype.bind`
   - `Function.prototype.apply`
   - `return`
 - Data structures
-  - `Array`
-  - `Map`
-  - `Set`
+  - `Array` u
+  - `Map` h
+  - `Set` h
   - `WeakMap`
   - `WeakSet`
   - Typed arrays

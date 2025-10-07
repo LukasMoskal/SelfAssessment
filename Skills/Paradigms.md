@@ -5,14 +5,14 @@
   - Imperative programming: 🖐️ used
   - Structured programming
   - Non-structured programming
-  - Functional programming k
+  - Functional programming: 🎓 known
   - Prototype-based programming
   - Object-oriented programming: 🖐️ used
   - Object-based programming
   - Generic programming: 👂 heard
   - Concurrent computing: 👂 heard
   - Asynchronous programming: 👂 heard
-  - Parallel programming k
+  - Parallel programming: 🎓 known
   - Reactive programming
   - Functional-reactive (FRP)
   - Automata-based programming
@@ -20,9 +20,9 @@
   - Multi-paradigm programming: 👂 heard
   - Metaprogramming
   - Actor model
-  - Lambda calculus k
+  - Lambda calculus: 🎓 known
   - Black box: 🖐️ used
-  - Information hiding k
+  - Information hiding: 🎓 known
   - Aspect-oriented programming
   - Anemic domain model
   - Class composition
@@ -39,10 +39,10 @@
   - Inheritance: 🖐️ used
   - Parent class: 🖐️ used
   - Polymorphism: 🖐️ used
-  - Abstract class k
+  - Abstract class: 🎓 known
   - Interface: 🖐️ used
   - Encapsulation: 🖐️ used
-  - Hidden class k
+  - Hidden class: 🎓 known
   - Object form
   - Instance: 🖐️ used
   - Introspection

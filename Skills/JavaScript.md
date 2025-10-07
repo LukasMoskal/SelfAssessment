@@ -4,10 +4,10 @@
   - `Object`: 🖐️ used
   - `Function`: 🖐️ used
   - `Boolean`: 🖐️ used
-  - `Number` k
-  - `BigInt` k
+  - `Number`: 🎓 known
+  - `BigInt`: 🎓 known
   - `String`: 🖐️ used
-  - `Symbol` k
+  - `Symbol`: 🎓 known
   - `Infinity`
   - `NaN`: 👂 heard
   - `undefined`: 👂 heard
@@ -48,16 +48,16 @@
   - `super`
   - `eval`
   - `static`
-  - `Number.parseInt` k
-  - `Number.parseFloat` k
+  - `Number.parseInt`: 🎓 known
+  - `Number.parseFloat`: 🎓 known
   - Property descriptors
   - Sealing properties
   - Freezing properties
   - Computed properties
-  - Instance class fields k
-  - Static class fields k
-  - Private class fields k
-  - Private class methods k
+  - Instance class fields: 🎓 known
+  - Static class fields: 🎓 known
+  - Private class fields: 🎓 known
+  - Private class methods: 🎓 known
 - Statements
   - `if`: 🖐️ used
   - `while`: 🖐️ used
@@ -66,14 +66,14 @@
   - `for..in`
   - `for..of`
   - `for await`
-  - `throw` k
-  - `break` k
+  - `throw`: 🎓 known
+  - `break`: 🎓 known
   - `continue`
   - `import`
   - `export`
   - `label`
-  - `try..catch` k
-  - `switch` k
+  - `try..catch`: 🎓 known
+  - `switch`: 🎓 known
   - `class`: 🖐️ used
   - `extends`: 🖐️ used
   - `with`
@@ -81,9 +81,9 @@
 - Functions
   - Arrow function
   - Async function
-  - Function declaration k
-  - Function expression k
-  - Default parameters k
+  - Function declaration: 🎓 known
+  - Function expression: 🎓 known
+  - Default parameters: 🎓 known
   - Functional object
   - `Function.prototype.call`
   - `Function.prototype.bind`

@@ -1,9 +1,9 @@
 ## Programming fundamental concepts
 
 - Concepts
-  - Model k
-  - Modeling k
-  - Subject domain k
+  - Model: 🎓 known
+  - Modeling: 🎓 known
+  - Subject domain: 🎓 known
   - Algorithm: 🖐️ used
   - Syntax: 🖐️ used
   - Semantics: 🖐️ used
@@ -19,11 +19,11 @@
   - Component
   - Framework: 🖐️ used
   - Platform: 🖐️ used
-  - Source code k
-  - Object code k
-  - Machine code k
+  - Source code: 🎓 known
+  - Object code: 🎓 known
+  - Machine code: 🎓 known
   - Microcode: 👂 heard
-  - Software engineering k
+  - Software engineering: 🎓 known
   - Decomposition
   - Control flow
   - Data flow
@@ -33,7 +33,7 @@
   - KISS principle
 - Syntax and concepts
   - Value: 🖐️ used
-  - Identifier k
+  - Identifier: 🎓 known
   - Variable: 🖐️ used
   - Constant: 🖐️ used
   - Scalar
@@ -57,23 +57,23 @@
   - Interface: 🖐️ used
   - Namespaces: 🖐️ used
   - Call stack
-  - Naming conventions k
-  - Coding conventions k
-  - Camel case k
-  - Snake case k
-  - Kebab case k
+  - Naming conventions: 🎓 known
+  - Coding conventions: 🎓 known
+  - Camel case: 🎓 known
+  - Snake case: 🎓 known
+  - Kebab case: 🎓 known
   - Trailing commas
   - Return early
   - Fail-fast
 - Types
-  - Primitive types k
-  - Reference types k
+  - Primitive types: 🎓 known
+  - Reference types: 🎓 known
   - Type systems
   - Strong typing
   - Weak typing
   - Duck typing
-  - Static typing k
-  - Dynamic typing k
+  - Static typing: 🎓 known
+  - Dynamic typing: 🎓 known
   - Nominal typing
   - Structural typing
   - Explicit typing
@@ -81,8 +81,8 @@
   - Covariance
   - Contravariance
 - Functions
-  - Signature k
-  - Argument k
+  - Signature: 🎓 known
+  - Argument: 🎓 known
   - Parameter: 🖐️ used
   - Pure function
   - Lambda expression: 👂 heard
@@ -98,7 +98,7 @@
   - Composition
   - Pipe
   - Memoize: 👂 heard
-  - Wrapper k
+  - Wrapper: 🎓 known
   - Functor
   - Monad
   - Monoid
@@ -113,7 +113,7 @@
   - Object: 🖐️ used
   - Collection: 🖐️ used
   - Set: 🖐️ used
-  - Hash table k
+  - Hash table: 🎓 known
   - Linked list: 🖐️ used
   - Doubly list: 🖐️ used
   - Unrolled list
@@ -136,32 +136,32 @@
   - CDN
   - CORS
   - IPv4: 🖐️ used
-  - IPv6 k
+  - IPv6: 🎓 known
   - NAT
   - URL: 🖐️ used
   - URN
   - URI: 👂 heard
 - Process and tools
   - Compiler: 🖐️ used
-  - Just-in-time compilation k
+  - Just-in-time compilation: 🎓 known
   - Ahead-of-time compilation
   - Transpiler
   - Linter
   - Polyfill
-  - Interpreter k
+  - Interpreter: 🎓 known
   - Linker
-  - Dynamic linking k
-  - Static linking k
-  - Runtime k
+  - Dynamic linking: 🎓 known
+  - Static linking: 🎓 known
+  - Runtime: 🎓 known
   - Virtual machine: 🖐️ used
   - Register-based VM
   - Stack-based VM
   - Containerization
-  - Debugger k
+  - Debugger: 🎓 known
   - Tracing
-  - Garbage collection k
+  - Garbage collection: 🎓 known
   - Refactoring
-  - Code review k
+  - Code review: 🎓 known
   - Exception: 🖐️ used
   - Unittesting
   - git: 👂 heard
@@ -178,7 +178,7 @@
   - Improbability factor
   - Accidental complexity
   - Action at a distance
-  - Spaghetti k
+  - Spaghetti: 🎓 known
   - Silver bullet
   - Not invented here
   - Dead code
@@ -208,14 +208,14 @@
   - CLR
   - Mono
 - Operating systems
-  - Interrupts k
-  - Drivers k
-  - Kernel k
-  - Ring k
-  - Virtual memory k
-  - File system k
+  - Interrupts: 🎓 known
+  - Drivers: 🎓 known
+  - Kernel: 🎓 known
+  - Ring: 🎓 known
+  - Virtual memory: 🎓 known
+  - File system: 🎓 known
   - Linux: 🖐️ used
-  - Unix k
+  - Unix: 🎓 known
   - BSD
   - MacOS: 👂 heard
   - Windows: 🖐️ used
@@ -224,16 +224,16 @@
 - Standards
   - ASCII: 👂 heard
   - Escape sequence
-  - RFC k
+  - RFC: 🎓 known
   - IETF
   - IANA
   - IEEE: 👂 heard
   - Base64
   - ECMA
   - ICANN
-  - ISO k
+  - ISO: 🎓 known
   - MIME
   - OWASP
-  - UTF-8 k
-  - W3C k
+  - UTF-8: 🎓 known
+  - W3C: 🎓 known
   - ODMG

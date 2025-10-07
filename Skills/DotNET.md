@@ -37,10 +37,10 @@
   - Memory and resource management
   - Globalization and localization
 - Network and Protocols
-  - HTTP/HTTPS support k
+  - HTTP/HTTPS support: 🎓 known
   - WebSockets for real-time communication
-  - TCP/UDP networking k
-  - SSL/TLS for secure connections k
+  - TCP/UDP networking: 🎓 known
+  - SSL/TLS for secure connections: 🎓 known
   - Efficient network communication with `gRPC`
   - HTTP/2 and HTTP/3 support
   - Network security (DDoS, XSS, CSRF prevention)

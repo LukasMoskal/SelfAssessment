@@ -70,12 +70,12 @@
   - Solution visions
   - Solution capabilities
   - System design
-  - Process modelling k
-  - Data modelling k
+  - Process modelling: 🎓 known
+  - Data modelling: 🎓 known
   - Solution components
   - Risk assessment
   - Non Functional Requirements (NFR)
-  - Clouds k
+  - Clouds: 🎓 known
   - BPMN
   - Low-code
   - No-code

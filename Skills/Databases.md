@@ -22,41 +22,41 @@
   - Data manipulation language (DML)
   - Data query language (DQL) l
 - Relational
-  - Entity-Relationship Diagram u
+  - Entity-Relationship Diagram: 🖐️ used
   - Normal forms
-  - Indexing u
+  - Indexing: 🖐️ used
   - Primary keys
   - Foreign keys
   - Transactions
   - Views
   - Subqueries
   - Stored procedures
-  - SQL functions u
+  - SQL functions: 🖐️ used
   - Materialized views
   - Replications
   - Virtualization
 - SQL
-  - `SELECT` u
-  - `INSERT` h
-  - `UPDATE` h
-  - `DELETE` h
+  - `SELECT`: 🖐️ used
+  - `INSERT`: 👂 heard
+  - `UPDATE`: 👂 heard
+  - `DELETE`: 👂 heard
   - `LIMIT`
   - `OFFSET`
-  - `ORDER BY` u
-  - `GROUP BY` h
-  - `HAVING` u
+  - `ORDER BY`: 🖐️ used
+  - `GROUP BY`: 👂 heard
+  - `HAVING`: 🖐️ used
   - `EXISTS`
-  - `JOIN` u
-  - `INNER JOIN` u
-  - `LEFT JOIN` u
-  - `RIGHT JOIN` u
-  - `UNION` u
-  - `DISTINCT` u
-  - `WHERE` u
+  - `JOIN`: 🖐️ used
+  - `INNER JOIN`: 🖐️ used
+  - `LEFT JOIN`: 🖐️ used
+  - `RIGHT JOIN`: 🖐️ used
+  - `UNION`: 🖐️ used
+  - `DISTINCT`: 🖐️ used
+  - `WHERE`: 🖐️ used
   - `LIKE`
-  - `IN` u
+  - `IN`: 🖐️ used
   - `BETWEEN`
-  - `CREATE TABLE` u
+  - `CREATE TABLE`: 🖐️ used
   - `ALTER TABLE`
   - `DROP TABLE`
   - `PRIMARY KEY`

@@ -1,17 +1,17 @@
 ## JavaScript
 
 - Language
-  - `Object` u
-  - `Function` u
-  - `Boolean` u
+  - `Object`: 🖐️ used
+  - `Function`: 🖐️ used
+  - `Boolean`: 🖐️ used
   - `Number` l
   - `BigInt` l
-  - `String` u
+  - `String`: 🖐️ used
   - `Symbol` l
   - `Infinity`
-  - `NaN` h
-  - `undefined` h
-  - `null` h
+  - `NaN`: 👂 heard
+  - `undefined`: 👂 heard
+  - `null`: 👂 heard
   - `this`
   - `instanceof`
   - `...spread`
@@ -19,7 +19,7 @@
   - `typeof`
   - Destructuring
   - Generators
-  - Iterators u
+  - Iterators: 🖐️ used
   - Async generator
   - Async iterator
   - Chaining
@@ -29,15 +29,15 @@
   - `global`
   - `globalThis`
   - `window`
-  - Getters and setters u
+  - Getters and setters: 🖐️ used
   - `__proto__`
   - `prototype`
-  - Equality operators u
-  - Logical operators u
+  - Equality operators: 🖐️ used
+  - Logical operators: 🖐️ used
   - Logical Assignment
-  - Bitwise operators h
+  - Bitwise operators: 👂 heard
   - Ternary operator
-  - `void` u
+  - `void`: 🖐️ used
   - `yield`
   - `await`
   - Template literal
@@ -59,10 +59,10 @@
   - Private class fields l
   - Private class methods l
 - Statements
-  - `if` u
-  - `while` u
-  - `do..while` u
-  - `for` u
+  - `if`: 🖐️ used
+  - `while`: 🖐️ used
+  - `do..while`: 🖐️ used
+  - `for`: 🖐️ used
   - `for..in`
   - `for..of`
   - `for await`
@@ -74,8 +74,8 @@
   - `label`
   - `try..catch` l
   - `switch` l
-  - `class` u
-  - `extends` u
+  - `class`: 🖐️ used
+  - `extends`: 🖐️ used
   - `with`
   - `new`
 - Functions
@@ -90,9 +90,9 @@
   - `Function.prototype.apply`
   - `return`
 - Data structures
-  - `Array` u
-  - `Map` h
-  - `Set` h
+  - `Array`: 🖐️ used
+  - `Map`: 👂 heard
+  - `Set`: 👂 heard
   - `WeakMap`
   - `WeakSet`
   - Typed arrays

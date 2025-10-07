@@ -4,21 +4,21 @@
   - Model l
   - Modeling l
   - Subject domain l
-  - Algorithm u
-  - Syntax u
-  - Semantics u
-  - Abstraction u
-  - Paradigm u
-  - Programm u
-  - Programming paradigm u
-  - Programming language u
+  - Algorithm: 🖐️ used
+  - Syntax: 🖐️ used
+  - Semantics: 🖐️ used
+  - Abstraction: 🖐️ used
+  - Paradigm: 🖐️ used
+  - Programm: 🖐️ used
+  - Programming paradigm: 🖐️ used
+  - Programming language: 🖐️ used
   - Contract
-  - Module u
-  - Library u
-  - Package u
+  - Module: 🖐️ used
+  - Library: 🖐️ used
+  - Package: 🖐️ used
   - Component
-  - Framework u
-  - Platform u
+  - Framework: 🖐️ used
+  - Platform: 🖐️ used
   - Source code l
   - Object code l
   - Machine code l
@@ -27,35 +27,35 @@
   - Decomposition
   - Control flow
   - Data flow
-  - Code reuse h
+  - Code reuse: 👂 heard
   - Defensive programming
   - Don't repeat yourself (DRY)
   - KISS principle
 - Syntax and concepts
-  - Value u
+  - Value: 🖐️ used
   - Identifier l
-  - Variable u
-  - Constant u
+  - Variable: 🖐️ used
+  - Constant: 🖐️ used
   - Scalar
   - Literal
   - Expression
-  - Heap u
-  - Function u
-  - Procedure u
-  - Method u
-  - Class u
+  - Heap: 🖐️ used
+  - Function: 🖐️ used
+  - Procedure: 🖐️ used
+  - Method: 🖐️ used
+  - Class: 🖐️ used
   - Prototype
-  - Event u
+  - Event: 🖐️ used
   - Type
-  - Flag u
+  - Flag: 🖐️ used
   - Lexical scope
-  - Code block u
-  - Conditions u
-  - Loops u
+  - Code block: 🖐️ used
+  - Conditions: 🖐️ used
+  - Loops: 🖐️ used
   - Assignment
-  - Regular expression u
-  - Interface u
-  - Namespaces u
+  - Regular expression: 🖐️ used
+  - Interface: 🖐️ used
+  - Namespaces: 🖐️ used
   - Call stack
   - Naming conventions l
   - Coding conventions l
@@ -83,66 +83,66 @@
 - Functions
   - Signature l
   - Argument l
-  - Parameter u
+  - Parameter: 🖐️ used
   - Pure function
-  - Lambda expression h
+  - Lambda expression: 👂 heard
   - Side effects
   - Closure
   - Partial application
   - Currying
   - Higher order
-  - Recursion u
+  - Recursion: 🖐️ used
   - Tail call optimisation
   - Callback
-  - Listener u
+  - Listener: 🖐️ used
   - Composition
   - Pipe
-  - Memoize h
+  - Memoize: 👂 heard
   - Wrapper l
   - Functor
   - Monad
   - Monoid
-  - Generator h
+  - Generator: 👂 heard
   - Coroutine
 - Data structures
-  - Array u
-  - Structure u
-  - Record u
-  - Enum u
-  - Instance u
-  - Object u
-  - Collection u
-  - Set u
+  - Array: 🖐️ used
+  - Structure: 🖐️ used
+  - Record: 🖐️ used
+  - Enum: 🖐️ used
+  - Instance: 🖐️ used
+  - Object: 🖐️ used
+  - Collection: 🖐️ used
+  - Set: 🖐️ used
   - Hash table l
-  - Linked list u
-  - Doubly list u
+  - Linked list: 🖐️ used
+  - Doubly list: 🖐️ used
   - Unrolled list
   - Circular list
-  - Queue u
-  - Stack u
+  - Queue: 🖐️ used
+  - Stack: 🖐️ used
   - Deque
-  - Tree u
-  - Graph u
-  - Iterator u
+  - Tree: 🖐️ used
+  - Graph: 🖐️ used
+  - Iterator: 🖐️ used
   - Mutable state
   - Immutable state
   - Serialization
-  - String parsing u
+  - String parsing: 🖐️ used
   - JSON
   - JSON5
   - YAML
 - Networking
-  - DNS h
+  - DNS: 👂 heard
   - CDN
   - CORS
-  - IPv4 u
+  - IPv4: 🖐️ used
   - IPv6 l
   - NAT
-  - URL u
+  - URL: 🖐️ used
   - URN
-  - URI h
+  - URI: 👂 heard
 - Process and tools
-  - Compiler u
+  - Compiler: 🖐️ used
   - Just-in-time compilation l
   - Ahead-of-time compilation
   - Transpiler
@@ -153,7 +153,7 @@
   - Dynamic linking l
   - Static linking l
   - Runtime l
-  - Virtual machine u
+  - Virtual machine: 🖐️ used
   - Register-based VM
   - Stack-based VM
   - Containerization
@@ -162,11 +162,11 @@
   - Garbage collection l
   - Refactoring
   - Code review l
-  - Exception u
+  - Exception: 🖐️ used
   - Unittesting
-  - git h
-  - Github h
-  - Docker h
+  - git: 👂 heard
+  - Github: 👂 heard
+  - Docker: 👂 heard
   - Kubernetes
   - GCC
   - LLVM
@@ -186,7 +186,7 @@
   - Duplicate code
   - Premature optimization
   - Micro-optimization
-  - Nested loops u
+  - Nested loops: 🖐️ used
   - Long method/function/procedure
   - Long inheritance
   - Large class/file
@@ -214,20 +214,20 @@
   - Ring l
   - Virtual memory l
   - File system l
-  - Linux u
+  - Linux: 🖐️ used
   - Unix l
   - BSD
-  - MacOS h
-  - Windows u
-  - Real-time OS 
+  - MacOS: 👂 heard
+  - Windows: 🖐️ used
+  - Real-time OS
   - Embedded OS
 - Standards
-  - ASCII h
+  - ASCII: 👂 heard
   - Escape sequence
   - RFC l
   - IETF
   - IANA
-  - IEEE h
+  - IEEE: 👂 heard
   - Base64
   - ECMA
   - ICANN

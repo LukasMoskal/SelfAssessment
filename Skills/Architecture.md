@@ -1,7 +1,7 @@
 ## Architecture
 
 - Application structure
-  - Separation of concerns h
+  - Separation of concerns: 👂 heard
   - Inversion of Control
   - Dependency Injection
   - GoF Creational
@@ -10,27 +10,27 @@
   - GRASP
   - SOLID
   - CQS
-  - Modularity h
+  - Modularity: 👂 heard
   - Subsystems
-  - Directories u
+  - Directories: 🖐️ used
   - Leaking abstractions
-  - Multiparadigm code h
+  - Multiparadigm code: 👂 heard
   - Contract programming
-  - Platform-agnostic u
+  - Platform-agnostic: 🖐️ used
   - Transport-agnostic
   - Framework-agnostic
   - Code coverage
   - Cohesion
   - Coupling
   - Cyclomatic complexity
-  - Reliability h
-  - Quality h
-  - Availability h
-  - Flexibility h
+  - Reliability: 👂 heard
+  - Quality: 👂 heard
+  - Availability: 👂 heard
+  - Flexibility: 👂 heard
   - Law of Demeter (LoD)
 - Application architecture
-  - Isolation between layer h
-  - Domain-specific language (DSL) h
+  - Isolation between layer: 👂 heard
+  - Domain-specific language (DSL): 👂 heard
   - System vs applied code
   - Multilayer approach
   - Hexagonal architecture
@@ -42,27 +42,27 @@
   - Domain-driven design (DDD)
   - Pub/sub
   - Message brocker
-  - Agent h
+  - Agent: 👂 heard
   - Service locator
   - Message Queue (MQ)
   - CQRS
   - Event sourcing
-  - E-R data modeling u
-  - Entity-relationship diagram u
+  - E-R data modeling: 🖐️ used
+  - Entity-relationship diagram: 🖐️ used
   - IDEF1X
-  - UML u
+  - UML: 🖐️ used
   - Work breakdown structure
   - Budget estimation
-  - Distributed systems k
+  - Distributed systems: 🎓 known
   - High-intensive computing
-  - Load balancing h
+  - Load balancing: 👂 heard
   - Gateways
   - On-premises
   - IaaS
   - PaaS
-  - SaaS h
+  - SaaS: 👂 heard
   - FaaS clouds
-  - Serverless h
+  - Serverless: 👂 heard
   - Vendor lock-in
   - Bus factor
 - Solution architecture
@@ -85,7 +85,7 @@
   - CAP theorem
   - Single source of truth (SSOT)
 - Enterprise architecture
-  - Understanding business needs h
+  - Understanding business needs: 👂 heard
   - Enterprise strategy
   - Integration with subsystems
   - Enterprise vision
@@ -101,5 +101,5 @@
   - OLAP
   - OLTP
   - Conways Law
-  - Quality assurance h
+  - Quality assurance: 👂 heard
   - Engineering Hygiene

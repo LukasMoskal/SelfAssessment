@@ -22,7 +22,7 @@
   - Source code l
   - Object code l
   - Machine code l
-  - Microcode
+  - Microcode h
   - Software engineering l
   - Decomposition
   - Control flow

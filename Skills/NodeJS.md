@@ -67,10 +67,10 @@
   - Protocol agnostic approach
   - Fetch API
   - IncomingMessage
-  - HTTP(S)
-  - TCP/SSL
-  - UDP
-  - TLS
+  - HTTP(S) l
+  - TCP/SSL l
+  - UDP l
+  - TLS l
   - Websocket
   - SSE
   - HTTP/3 (QUIC)
@@ -79,11 +79,11 @@
   - RPC
   - Routing
   - DoS
-  - DDoS
+  - DDoS h
   - XSS
   - Path traversal
   - CSRF
-  - DNS
+  - DNS l
   - SQL injection
   - noDelay
   - keep-alive

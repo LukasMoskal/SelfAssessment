@@ -1,7 +1,7 @@
 ## Architecture
 
 - Application structure
-  - Separation of concerns
+  - Separation of concerns h
   - Inversion of Control
   - Dependency Injection
   - GoF Creational
@@ -10,27 +10,27 @@
   - GRASP
   - SOLID
   - CQS
-  - Modularity
+  - Modularity h
   - Subsystems
-  - Directories
+  - Directories u
   - Leaking abstractions
-  - Multiparadigm code
+  - Multiparadigm code h
   - Contract programming
-  - Platform-agnostic
+  - Platform-agnostic u
   - Transport-agnostic
   - Framework-agnostic
   - Code coverage
   - Cohesion
   - Coupling
   - Cyclomatic complexity
-  - Reliability
-  - Quality
-  - Availability
-  - Flexibility
+  - Reliability h
+  - Quality h
+  - Availability h
+  - Flexibility h
   - Law of Demeter (LoD)
 - Application architecture
-  - Isolation between layer
-  - Domain-specific language (DSL)
+  - Isolation between layer h
+  - Domain-specific language (DSL) h
   - System vs applied code
   - Multilayer approach
   - Hexagonal architecture
@@ -42,27 +42,27 @@
   - Domain-driven design (DDD)
   - Pub/sub
   - Message brocker
-  - Agent
+  - Agent h
   - Service locator
   - Message Queue (MQ)
   - CQRS
   - Event sourcing
-  - E-R data modeling
-  - Entity-relationship diagram
+  - E-R data modeling u
+  - Entity-relationship diagram u
   - IDEF1X
-  - UML
+  - UML u
   - Work breakdown structure
   - Budget estimation
-  - Distributed systems
+  - Distributed systems k
   - High-intensive computing
-  - Load balancing
+  - Load balancing h
   - Gateways
   - On-premises
   - IaaS
   - PaaS
-  - SaaS
+  - SaaS h
   - FaaS clouds
-  - Serverless
+  - Serverless h
   - Vendor lock-in
   - Bus factor
 - Solution architecture
@@ -70,12 +70,12 @@
   - Solution visions
   - Solution capabilities
   - System design
-  - Process modelling
-  - Data modelling
+  - Process modelling l
+  - Data modelling l
   - Solution components
   - Risk assessment
   - Non Functional Requirements (NFR)
-  - Clouds
+  - Clouds l
   - BPMN
   - Low-code
   - No-code
@@ -85,7 +85,7 @@
   - CAP theorem
   - Single source of truth (SSOT)
 - Enterprise architecture
-  - Understanding business needs
+  - Understanding business needs h
   - Enterprise strategy
   - Integration with subsystems
   - Enterprise vision
@@ -101,5 +101,5 @@
   - OLAP
   - OLTP
   - Conways Law
-  - Quality assurance
+  - Quality assurance h
   - Engineering Hygiene

@@ -1,17 +1,17 @@
 ## Databases
 
 - Theory and concepts
-  - Data types l
+  - Data types k
   - Performance tuning
   - Migrations
   - Schema versioning
-  - Backup and recovery l
+  - Backup and recovery k
   - Database scalability
-  - Relational databases l
+  - Relational databases k
   - Key-value store
   - Tuple store
   - Graph databases
-  - Object databases l
+  - Object databases k
   - Column databases
   - Navigational databases
   - Hierarchical databases
@@ -20,7 +20,7 @@
   - Data control language (DCL)
   - Data definition language (DDL)
   - Data manipulation language (DML)
-  - Data query language (DQL) l
+  - Data query language (DQL) k
 - Relational
   - Entity-Relationship Diagram: 🖐️ used
   - Normal forms

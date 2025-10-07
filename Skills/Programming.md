@@ -1,9 +1,9 @@
 ## Programming fundamental concepts
 
 - Concepts
-  - Model l
-  - Modeling l
-  - Subject domain l
+  - Model k
+  - Modeling k
+  - Subject domain k
   - Algorithm: 🖐️ used
   - Syntax: 🖐️ used
   - Semantics: 🖐️ used
@@ -19,11 +19,11 @@
   - Component
   - Framework: 🖐️ used
   - Platform: 🖐️ used
-  - Source code l
-  - Object code l
-  - Machine code l
-  - Microcode h
-  - Software engineering l
+  - Source code k
+  - Object code k
+  - Machine code k
+  - Microcode: 👂 heard
+  - Software engineering k
   - Decomposition
   - Control flow
   - Data flow
@@ -33,7 +33,7 @@
   - KISS principle
 - Syntax and concepts
   - Value: 🖐️ used
-  - Identifier l
+  - Identifier k
   - Variable: 🖐️ used
   - Constant: 🖐️ used
   - Scalar
@@ -57,23 +57,23 @@
   - Interface: 🖐️ used
   - Namespaces: 🖐️ used
   - Call stack
-  - Naming conventions l
-  - Coding conventions l
-  - Camel case l
-  - Snake case l
-  - Kebab case l
+  - Naming conventions k
+  - Coding conventions k
+  - Camel case k
+  - Snake case k
+  - Kebab case k
   - Trailing commas
   - Return early
   - Fail-fast
 - Types
-  - Primitive types l
-  - Reference types l
+  - Primitive types k
+  - Reference types k
   - Type systems
   - Strong typing
   - Weak typing
   - Duck typing
-  - Static typing l
-  - Dynamic typing l
+  - Static typing k
+  - Dynamic typing k
   - Nominal typing
   - Structural typing
   - Explicit typing
@@ -81,8 +81,8 @@
   - Covariance
   - Contravariance
 - Functions
-  - Signature l
-  - Argument l
+  - Signature k
+  - Argument k
   - Parameter: 🖐️ used
   - Pure function
   - Lambda expression: 👂 heard
@@ -98,7 +98,7 @@
   - Composition
   - Pipe
   - Memoize: 👂 heard
-  - Wrapper l
+  - Wrapper k
   - Functor
   - Monad
   - Monoid
@@ -113,7 +113,7 @@
   - Object: 🖐️ used
   - Collection: 🖐️ used
   - Set: 🖐️ used
-  - Hash table l
+  - Hash table k
   - Linked list: 🖐️ used
   - Doubly list: 🖐️ used
   - Unrolled list
@@ -136,32 +136,32 @@
   - CDN
   - CORS
   - IPv4: 🖐️ used
-  - IPv6 l
+  - IPv6 k
   - NAT
   - URL: 🖐️ used
   - URN
   - URI: 👂 heard
 - Process and tools
   - Compiler: 🖐️ used
-  - Just-in-time compilation l
+  - Just-in-time compilation k
   - Ahead-of-time compilation
   - Transpiler
   - Linter
   - Polyfill
-  - Interpreter l
+  - Interpreter k
   - Linker
-  - Dynamic linking l
-  - Static linking l
-  - Runtime l
+  - Dynamic linking k
+  - Static linking k
+  - Runtime k
   - Virtual machine: 🖐️ used
   - Register-based VM
   - Stack-based VM
   - Containerization
-  - Debugger l
+  - Debugger k
   - Tracing
-  - Garbage collection l
+  - Garbage collection k
   - Refactoring
-  - Code review l
+  - Code review k
   - Exception: 🖐️ used
   - Unittesting
   - git: 👂 heard
@@ -178,7 +178,7 @@
   - Improbability factor
   - Accidental complexity
   - Action at a distance
-  - Spaghetti l
+  - Spaghetti k
   - Silver bullet
   - Not invented here
   - Dead code
@@ -208,14 +208,14 @@
   - CLR
   - Mono
 - Operating systems
-  - Interrupts l
-  - Drivers l
-  - Kernel l
-  - Ring l
-  - Virtual memory l
-  - File system l
+  - Interrupts k
+  - Drivers k
+  - Kernel k
+  - Ring k
+  - Virtual memory k
+  - File system k
   - Linux: 🖐️ used
-  - Unix l
+  - Unix k
   - BSD
   - MacOS: 👂 heard
   - Windows: 🖐️ used
@@ -224,16 +224,16 @@
 - Standards
   - ASCII: 👂 heard
   - Escape sequence
-  - RFC l
+  - RFC k
   - IETF
   - IANA
   - IEEE: 👂 heard
   - Base64
   - ECMA
   - ICANN
-  - ISO l
+  - ISO k
   - MIME
   - OWASP
-  - UTF-8 l
-  - W3C l
+  - UTF-8 k
+  - W3C k
   - ODMG

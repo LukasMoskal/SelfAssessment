@@ -4,7 +4,7 @@
   - Event loop: 🖐️ used
   - `try..catch`: 👂 heard
   - Non-blocking
-  - Async I/O l
+  - Async I/O k
   - Thread pool
   - Pattern Reactor
   - CAS operations
@@ -16,8 +16,8 @@
   - Race conditions: 🙋 explained
   - Dead locks: 🙋 explained
   - Live locks
-  - Concurrent programming l
-  - Parallel programming l
+  - Concurrent programming k
+  - Parallel programming k
   - Actor Model
   - Thread: 🙋 explained
   - Process: 🙋 explained
@@ -32,13 +32,13 @@
   - Sync generator
   - Async Generator
   - Async Iterator
-  - Event l
+  - Event k
   - Coroutine
   - Goroutine
   - Signal
   - Stream
   - Chain of responsibility
-  - Middleware l
+  - Middleware k
   - Locks
 - Async adapters and utils
   - callbackify

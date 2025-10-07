@@ -1,7 +1,7 @@
 ## Architecture
 
 - Application structure
-  - Separation of concerns
+  - Separation of concerns: 👂 heard
   - Inversion of Control
   - Dependency Injection
   - GoF Creational
@@ -10,27 +10,27 @@
   - GRASP
   - SOLID
   - CQS
-  - Modularity
+  - Modularity: 👂 heard
   - Subsystems
-  - Directories
+  - Directories: 🖐️ used
   - Leaking abstractions
-  - Multiparadigm code
+  - Multiparadigm code: 👂 heard
   - Contract programming
-  - Platform-agnostic
+  - Platform-agnostic: 🖐️ used
   - Transport-agnostic
   - Framework-agnostic
   - Code coverage
   - Cohesion
   - Coupling
   - Cyclomatic complexity
-  - Reliability
-  - Quality
-  - Availability
-  - Flexibility
+  - Reliability: 👂 heard
+  - Quality: 👂 heard
+  - Availability: 👂 heard
+  - Flexibility: 👂 heard
   - Law of Demeter (LoD)
 - Application architecture
-  - Isolation between layer
-  - Domain-specific language (DSL)
+  - Isolation between layer: 👂 heard
+  - Domain-specific language (DSL): 👂 heard
   - System vs applied code
   - Multilayer approach
   - Hexagonal architecture
@@ -42,27 +42,27 @@
   - Domain-driven design (DDD)
   - Pub/sub
   - Message brocker
-  - Agent
+  - Agent: 👂 heard
   - Service locator
   - Message Queue (MQ)
   - CQRS
   - Event sourcing
-  - E-R data modeling
-  - Entity-relationship diagram
+  - E-R data modeling: 🖐️ used
+  - Entity-relationship diagram: 🖐️ used
   - IDEF1X
-  - UML
+  - UML: 🖐️ used
   - Work breakdown structure
   - Budget estimation
-  - Distributed systems
+  - Distributed systems: 🎓 known
   - High-intensive computing
-  - Load balancing
+  - Load balancing: 👂 heard
   - Gateways
   - On-premises
   - IaaS
   - PaaS
-  - SaaS
+  - SaaS: 👂 heard
   - FaaS clouds
-  - Serverless
+  - Serverless: 👂 heard
   - Vendor lock-in
   - Bus factor
 - Solution architecture
@@ -70,12 +70,12 @@
   - Solution visions
   - Solution capabilities
   - System design
-  - Process modelling
-  - Data modelling
+  - Process modelling l
+  - Data modelling l
   - Solution components
   - Risk assessment
   - Non Functional Requirements (NFR)
-  - Clouds
+  - Clouds l
   - BPMN
   - Low-code
   - No-code
@@ -85,7 +85,7 @@
   - CAP theorem
   - Single source of truth (SSOT)
 - Enterprise architecture
-  - Understanding business needs
+  - Understanding business needs: 👂 heard
   - Enterprise strategy
   - Integration with subsystems
   - Enterprise vision
@@ -101,5 +101,5 @@
   - OLAP
   - OLTP
   - Conways Law
-  - Quality assurance
+  - Quality assurance: 👂 heard
   - Engineering Hygiene
